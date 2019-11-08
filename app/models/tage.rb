@@ -1,0 +1,2 @@
+class Tage < ApplicationRecord
+end
